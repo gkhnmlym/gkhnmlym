@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gökhan MÜLAYİM</h1>
 <h3 align="center">A passionate mechatronic engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Embedded System**
+- 🔭 I’m currently working on **Software Specialist, Embedded System**
 
-- 🌱 I’m currently learning **Embedded System**
+- 🌱 I’m currently learning **Software Specialist**
 
 - 🤝 I’m looking for help with **Image processing**
 
